@@ -1,5 +1,5 @@
  <img align="left" width="380" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jefreyRamos&theme=monokai" show_icons=true count_private=true />
-<img align="right" width="380" src="https://count.getloli.com/get/@ShinoKana?theme=asoul" alt="animecounter" />
-<img align="center" src="https://github.com/ShinoKana/ShinoKana/blob/main/github-contribution-grid-snake.svg" width="1000" />
+<img align="right" width="380" src="https://count.getloli.com/get/@jefreyRamos?theme=asoul" alt="animecounter" />
+<img align="center" src="https://github.com/jefreyRamos/jefreyRamos/blob/main/github-contribution-grid-snake.svg" width="1000" />
 <p align="center"> <img src="https://i.imgur.com/GNMDVSW.png" width="300" /> </p>
-<img align="center" src="https://github.com/ShinoKana/ShinoKana/blob/main/text_animation.svg" width=“300” />
+<img align="center" src="https://github.com/jefreyRamos/jefreyRamos/blob/main/text_animation.svg" width=“300” />
